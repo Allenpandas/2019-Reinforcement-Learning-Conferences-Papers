@@ -22,7 +22,7 @@ The proceedings of top conference in 2019 on the topic of Reinforcement Learning
 * [x] AAMAS'2019
 * [x] ICLR'2019
 * [x] ICML'2019
-* [ ] ICRA'2019
+* [x] ICRA'2019
 * [x] IJCAI'2019
 * [ ] NeurIPS'2019
 
@@ -396,8 +396,63 @@ For any questions, feel free to contact me 📮.
  - **Maximum Entropy-Regularized Multi-Goal Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/zhao19d.html)]
    - Rui Zhao, Xudong Sun, Volker Tresp. *ICML 2019*.
 
-
 ## International Conference on Robotics and Automation
+
+ - **BaRC: Backward Reachability Curriculum for Robotic Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794206)]
+   - Boris Ivanovic, James Harrison, Apoorva Sharma, Mo Chen, Marco Pavone. *ICRA 2019*.
+ - **VPE: Variational Policy Embedding for Transfer Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793556)]
+   - Isac Arnekvist, Danica Kragic, Johannes A. Stork. *ICRA 2019*.
+ - **Using Deep Reinforcement Learning to Learn High-Level Policies on the ATRIAS Biped.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793864)]
+   - Tianyu Li, Hartmut Geyer, Christopher G. Atkeson, Akshara Rai. *ICRA 2019*.
+ - **Reinforcement Learning Meets Hybrid Zero Dynamics: A Case Study for RABBIT.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793627)]
+   - Guillermo A. Castillo, Bowen Weng, Ayonga Hereid, Zheng Wang, Wei Zhang. *ICRA 2019*.
+ - **A Practical Approach to Insertion with Variable Socket Position Using Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794074)]
+   - Mel Vecerík, Oleg Sushkov, David Barker, Thomas Rothörl, Todd Hester, Jonathan Scholz. *ICRA 2019*.
+ - **Reinforcement Learning in Topology-based Representation for Human Body Movement with Whole Arm Manipulation.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794160)]
+   - Weihao Yuan, Kaiyu Hang, Haoran Song, Danica Kragic, Michael Yu Wang, Johannes A. Stork. *ICRA 2019*.
+ - **Demonstration-Guided Deep Reinforcement Learning of Control Policies for Dexterous Human-Robot Interaction.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794065)]
+   - Sammy Joe Christen, Stefan Stevsic, Otmar Hilliges. *ICRA 2019*.
+ - **Inverse Reinforcement Learning of Interaction Dynamics from Demonstrations.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793867)]
+   - Mostafa Hussein, Momotaz Begum, Marek Petrik. *ICRA 2019*.
+ - **Offline Policy Iteration Based Reinforcement Learning Controller for Online Robotic Knee Prosthesis Parameter Tuning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794212)]
+   - Minhan Li, Xiang Gao, Yue Wen, Jennie Si, He Helen Huang. *ICRA 2019*.
+ - **Reinforcement Learning on Variable Impedance Controller for High-Precision Robotic Assembly.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793506)]
+   - Jianlan Luo, Eugen Solowjow, Chengtao Wen, Juan Aparicio Ojea, Alice M. Agogino, Aviv Tamar, Pieter Abbeel. *ICRA 2019*.
+ - **Interaction-Aware Multi-Agent Reinforcement Learning for Mobile Agents with Individual Goals.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793721)]
+   - Anahita Mohseni-Kabir, David Isele, Kikuo Fujimura. *ICRA 2019*.
+ - **Active Perception in Adversarial Scenarios using Maximum Entropy Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794389)]
+   - Macheng Shen, Jonathan P. How. *ICRA 2019*.
+ - **Dexterous Manipulation with Deep Reinforcement Learning: Efficient, General, and Low-Cost.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794102)]
+   - Henry Zhu, Abhishek Gupta, Aravind Rajeswaran, Sergey Levine, Vikash Kumar. *ICRA 2019*.
+ - **OmniDRL: Robust Pedestrian Detection using Deep Reinforcement Learning on Omnidirectional Cameras.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794471)]
+   - G. Dias Pais, Tiago J. Dias, Jacinto C. Nascimento, Pedro Miraldo. *ICRA 2019*.
+ - **Open Loop Position Control of Soft Continuum Arm Using Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793653)]
+   - Sreeshankar Satheeshbabu, Naveen Kumar Uppalapati, Girish Chowdhary, Girish Krishnan. *ICRA 2019*.
+ - **Deep Reinforcement Learning of Navigation in a Complex and Crowded Environment with a Limited Field of View.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793979)]
+   - Jinyoung Choi, Kyungsik Park, Minsu Kim, Sangok Seok. *ICRA 2019*.
+ - **Generalization through Simulation: Integrating Simulated and Real Data into Deep Reinforcement Learning for Vision-Based Autonomous Flight.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793735)]
+   - Katie Kang, Suneel Belkhale, Gregory Kahn, Pieter Abbeel, Sergey Levine. *ICRA 2019*.
+ - **Crowd-Robot Interaction: Crowd-Aware Robot Navigation With Attention-Based Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794134)]
+   - Changan Chen, Yuejiang Liu, Sven Kreiss, Alexandre Alahi. *ICRA 2019*.
+ - **Residual Reinforcement Learning for Robot Control.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794127)]
+   - Tobias Johannink, Shikhar Bahl, Ashvin Nair, Jianlan Luo, Avinash Kumar, Matthias Loskyll, Juan Aparicio Ojea, Eugen Solowjow, Sergey Levine. *ICRA 2019*.
+ - **A Reinforcement Learning Approach for Control of a Nature-Inspired Aerial Vehicle.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794446)]
+   - Danial Sufiyan Bin Shaiful, Luke Thura Soe Win, Shane Kyi Hla Win, Gim Song Soh, Shaohui Foong. *ICRA 2019*.
+ - **Continuous Value Iteration (CVI) Reinforcement Learning and Imaginary Experience Replay (IER) For Learning Multi-Goal, Continuous Action and State Space Controllers.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794347)]
+   - Andreas Gerken, Michael Spranger. *ICRA 2019*.
+ - **Risk Averse Robust Adversarial Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794293)]
+   - Xinlei Pan, Daniel Seita, Yang Gao, John F. Canny. *ICRA 2019*.
+ - **Early Failure Detection of Deep End-to-End Control Policy by Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794189)]
+   - Keuntaek Lee, Kamil Saigol, Evangelos A. Theodorou. *ICRA 2019*.
+ - **Bridging Hamilton-Jacobi Safety Analysis and Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8794107)]
+   - Jaime F. Fisac, Neil F. Lugovoy, Vicenç Rúbies Royo, Shromona Ghosh, Claire J. Tomlin. *ICRA 2019*.
+ - **Safe Reinforcement Learning With Model Uncertainty Estimates.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793611)]
+   - Björn Lütjens, Michael Everett, Jonathan P. How. *ICRA 2019*.
+ - **Distributional Deep Reinforcement Learning with a Mixture of Gaussians.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793505)]
+   - Yunho Choi, Kyungjae Lee, Songhwai Oh. *ICRA 2019*.
+ - **Jointly Learning to Construct and Control Agents using Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA.2019.8793537)]
+   - Charles B. Schaff, David Yunis, Ayan Chakrabarti, Matthew R. Walter. *ICRA 2019*.
+
 
 ## International Joint Conference on Artificial Intelligence
 
