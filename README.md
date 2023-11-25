@@ -21,7 +21,7 @@ The proceedings of top conference in 2019 on the topic of Reinforcement Learning
 * [x] AAAI'2019
 * [x] AAMAS'2019
 * [x] ICLR'2019
-* [ ] ICML'2019
+* [x] ICML'2019
 * [ ] ICRA'2019
 * [x] IJCAI'2019
 * [ ] NeurIPS'2019
@@ -305,8 +305,97 @@ For any questions, feel free to contact me 📮.
  - **Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=rkl6As0cF7)]
    - Ying Wen, Yaodong Yang, Rui Luo, Jun Wang, Wei Pan. *ICLR 2019*.
 
-
 ## International Conference on Machine Learning
+
+ - **Dynamic Weights in Multi-Objective Deep Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/abels19a.html)]
+   - Axel Abels, Diederik M. Roijers, Tom Lenaerts, Ann Nowé, Denis Steckelmacher. *ICML 2019*.
+ - **TibGM: A Transferable and Information-Based Graphical Model Approach for Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/adel19a.html)]
+   - Tameem Adel, Adrian Weller. *ICML 2019*.
+ - **Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations.** [[pdf](http://proceedings.mlr.press/v97/brown19a.html)]
+   - Daniel S. Brown, Wonjoon Goo, Prabhat Nagarajan, Scott Niekum. *ICML 2019*.
+ - **Learning Action Representations for Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/chandak19a.html)]
+   - Yash Chandak, Georgios Theocharous, James E. Kostas, Scott M. Jordan, Philip S. Thomas. *ICML 2019*.
+ - **Information-Theoretic Considerations in Batch Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/chen19e.html)]
+   - Jinglin Chen, Nan Jiang. *ICML 2019*.
+ - **Generative Adversarial User Model for Reinforcement Learning Based Recommendation System.** [[pdf](http://proceedings.mlr.press/v97/chen19f.html)]
+   - Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song. *ICML 2019*.
+ - **Control Regularization for Reduced Variance Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/cheng19a.html)]
+   - Richard Cheng, Abhinav Verma, Gábor Orosz, Swarat Chaudhuri, Yisong Yue, Joel Burdick. *ICML 2019*.
+ - **Probability Functional Descent: A Unifying Perspective on GANs, Variational Inference, and Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/chu19a.html)]
+   - Casey Chu, Jose H. Blanchet, Peter W. Glynn. *ICML 2019*.
+ - **Quantifying Generalization in Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/cobbe19a.html)]
+   - Karl Cobbe, Oleg Klimov, Christopher Hesse, Taehoon Kim, John Schulman. *ICML 2019*.
+ - **CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/colas19a.html)]
+   - Cédric Colas, Pierre-Yves Oudeyer, Olivier Sigaud, Pierre Fournier, Mohamed Chetouani. *ICML 2019*.
+ - **The Value Function Polytope in Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/dadashi19a.html)]
+   - Robert Dadashi, Marc G. Bellemare, Adrien Ali Taïga, Nicolas Le Roux, Dale Schuurmans. *ICML 2019*.
+ - **Policy Certificates: Towards Accountable Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/dann19a.html)]
+   - Christoph Dann, Lihong Li, Wei Wei, Emma Brunskill. *ICML 2019*.
+ - **Finite-Time Analysis of Distributed TD(0) with Linear Function Approximation on Multi-Agent Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/doan19a.html)]
+   - Thinh T. Doan, Siva Theja Maguluri, Justin Romberg. *ICML 2019*.
+ - **Trajectory-Based Off-Policy Deep Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/doerr19a.html)]
+   - Andreas Doerr, Michael Volpp, Marc Toussaint, Sebastian Trimpe, Christian Daniel. *ICML 2019*.
+ - **Task-Agnostic Dynamics Priors for Deep Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/du19e.html)]
+   - Yilun Du, Karthik Narasimhan. *ICML 2019*.
+ - **Dead-ends and Secure Exploration in Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/fatemi19a.html)]
+   - Mehdi Fatemi, Shikhar Sharma, Harm van Seijen, Samira Ebrahimi Kahou. *ICML 2019*.
+ - **Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/foerster19a.html)]
+   - Jakob N. Foerster, H. Francis Song, Edward Hughes, Neil Burch, Iain Dunning, Shimon Whiteson, Matthew M. Botvinick, Michael Bowling. *ICML 2019*.
+ - **Off-Policy Deep Reinforcement Learning without Exploration.** [[pdf](http://proceedings.mlr.press/v97/fujimoto19a.html)]
+   - Scott Fujimoto, David Meger, Doina Precup. *ICML 2019*.
+ - **Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation.** [[pdf](http://proceedings.mlr.press/v97/gamrian19a.html)]
+   - Shani Gamrian, Yoav Goldberg. *ICML 2019*.
+ - **Grid-Wise Control for Multi-Agent Reinforcement Learning in Video Game AI.** [[pdf](http://proceedings.mlr.press/v97/han19a.html)]
+   - Lei Han, Peng Sun, Yali Du, Jiechao Xiong, Qing Wang, Xinghai Sun, Han Liu, Tong Zhang. *ICML 2019*.
+ - **Dimension-Wise Importance Sampling Weight Clipping for Sample-Efficient Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/han19b.html)]
+   - Seungyul Han, Youngchul Sung. *ICML 2019*.
+ - **Actor-Attention-Critic for Multi-Agent Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/iqbal19a.html)]
+   - Shariq Iqbal, Fei Sha. *ICML 2019*.
+ - **Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/jaques19a.html)]
+   - Natasha Jaques, Angeliki Lazaridou, Edward Hughes, Çaglar Gülçehre, Pedro A. Ortega, DJ Strouse, Joel Z. Leibo, Nando de Freitas. *ICML 2019*.
+ - **A Deep Reinforcement Learning Perspective on Internet Congestion Control.** [[pdf](http://proceedings.mlr.press/v97/jay19a.html)]
+   - Nathan Jay, Noga H. Rotman, Brighten Godfrey, Michael Schapira, Aviv Tamar. *ICML 2019*.
+ - **Neural Logic Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/jiang19a.html)]
+   - Zhengyao Jiang, Shan Luo. *ICML 2019*.
+ - **Policy Consolidation for Continual Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/kaplanis19a.html)]
+   - Christos Kaplanis, Murray Shanahan, Claudia Clopath. *ICML 2019*.
+ - **Collaborative Evolutionary Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/khadka19a.html)]
+   - Shauharda Khadka, Somdeb Majumdar, Tarek Nassar, Zach Dwiel, Evren Tumer, Santiago Miret, Yinyin Liu, Kagan Tumer. *ICML 2019*.
+ - **Kernel-Based Reinforcement Learning in Robust Markov Decision Processes.** [[pdf](http://proceedings.mlr.press/v97/lim19a.html)]
+   - Shiau Hong Lim, Arnaud Autef. *ICML 2019*.
+ - **Calibrated Model-Based Deep Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/malik19a.html)]
+   - Ali Malik, Volodymyr Kuleshov, Jiaming Song, Danny Nemer, Harlan Seymour, Stefano Ermon. *ICML 2019*.
+ - **Distributional Reinforcement Learning for Efficient Exploration.** [[pdf](http://proceedings.mlr.press/v97/mavrin19a.html)]
+   - Borislav Mavrin, Hengshuai Yao, Linglong Kong, Kaiwen Wu, Yaoliang Yu. *ICML 2019*.
+ - **Reinforcement Learning in Configurable Continuous Environments.** [[pdf](http://proceedings.mlr.press/v97/metelli19a.html)]
+   - Alberto Maria Metelli, Emanuele Ghelfi, Marcello Restelli. *ICML 2019*.
+ - **Fingerprint Policy Optimisation for Robust Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/paul19a.html)]
+   - Supratik Paul, Michael A. Osborne, Shimon Whiteson. *ICML 2019*.
+ - **Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables.** [[pdf](http://proceedings.mlr.press/v97/rakelly19a.html)]
+   - Kate Rakelly, Aurick Zhou, Chelsea Finn, Sergey Levine, Deirdre Quillen. *ICML 2019*.
+ - **Statistics and Samples in Distributional Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/rowland19a.html)]
+   - Mark Rowland, Robert Dadashi, Saurabh Kumar, Rémi Munos, Marc G. Bellemare, Will Dabney. *ICML 2019*.
+ - **Exploration Conscious Reinforcement Learning Revisited.** [[pdf](http://proceedings.mlr.press/v97/shani19a.html)]
+   - Lior Shani, Yonathan Efroni, Shie Mannor. *ICML 2019*.
+ - **QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/son19a.html)]
+   - Kyunghwan Son, Daewoo Kim, Wan Ju Kang, David Hostallero, Yung Yi. *ICML 2019*.
+ - **Action Robust Reinforcement Learning and Applications in Continuous Control.** [[pdf](http://proceedings.mlr.press/v97/tessler19a.html)]
+   - Chen Tessler, Yonathan Efroni, Shie Mannor. *ICML 2019*.
+ - **Composing Value Functions in Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/van-niekerk19a.html)]
+   - Benjamin van Niekerk, Steven D. James, Adam Christopher Earle, Benjamin Rosman. *ICML 2019*.
+ - **On the Generalization Gap in Reparameterizable Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/wang19o.html)]
+   - Huan Wang, Stephan Zheng, Caiming Xiong, Richard Socher. *ICML 2019*.
+ - **Learning a Prior over Intent via Meta-Inverse Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/xu19d.html)]
+   - Kelvin Xu, Ellis Ratner, Anca D. Dragan, Sergey Levine, Chelsea Finn. *ICML 2019*.
+ - **Multi-Agent Adversarial Inverse Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/yu19e.html)]
+   - Lantao Yu, Jiaming Song, Stefano Ermon. *ICML 2019*.
+ - **Tighter Problem-Dependent Regret Bounds in Reinforcement Learning without Domain Knowledge using Value Function Bounds.** [[pdf](http://proceedings.mlr.press/v97/zanette19a.html)]
+   - Andrea Zanette, Emma Brunskill. *ICML 2019*.
+ - **SOLAR: Deep Structured Representations for Model-Based Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/zhang19m.html)]
+   - Marvin Zhang, Sharad Vikram, Laura M. Smith, Pieter Abbeel, Matthew J. Johnson, Sergey Levine. *ICML 2019*.
+ - **Maximum Entropy-Regularized Multi-Goal Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v97/zhao19d.html)]
+   - Rui Zhao, Xudong Sun, Volker Tresp. *ICML 2019*.
+
 
 ## International Conference on Robotics and Automation
 
