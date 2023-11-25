@@ -19,7 +19,7 @@ The proceedings of top conference in 2019 on the topic of Reinforcement Learning
 
 * [x] Related repository
 * [x] AAAI'2019
-* [ ] AAMAS'2019
+* [x] AAMAS'2019
 * [ ] ICLR'2019
 * [ ] ICML'2019
 * [ ] ICRA'2019
@@ -165,8 +165,109 @@ For any questions, feel free to contact me 📮.
  - **Geometric Multi-Model Fitting by Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v33i01.330110081)]
    - Zongliang Zhang, Hongbin Zeng, Jonathan Li, Yiping Chen, Chenhui Yang, Cheng Wang. *AAAI 2019*.
 
-
 ## International Conference on Autonomous Agents and Multiagent Systems
+
+ - **Building Knowledge for AI Agents with Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331666)]
+   - Doina Precup. *AAMAS 2019*.
+ - **Bayesian Reinforcement Learning in Factored POMDPs.** [[pdf](http://dl.acm.org/citation.cfm?id=3331668)]
+   - Sammie Katt, Frans A. Oliehoek, Christopher Amato. *AAMAS 2019*.
+ - **Learning Curriculum Policies for Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331670)]
+   - Sanmit Narvekar, Peter Stone. *AAMAS 2019*.
+ - **Model Primitive Hierarchical Lifelong Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331671)]
+   - Bohan Wu, Jayesh K. Gupta, Mykel J. Kochenderfer. *AAMAS 2019*.
+ - **Negative Update Intervals in Deep Multi-Agent Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331672)]
+   - Gregory Palmer, Rahul Savani, Karl Tuyls. *AAMAS 2019*.
+ - **Self-Improving Generative Adversarial Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331673)]
+   - Yang Liu, Yifeng Zeng, Yingke Chen, Jing Tang, Yinghui Pan. *AAMAS 2019*.
+ - **Reinforcement Learning in Stationary Mean-field Games.** [[pdf](http://dl.acm.org/citation.cfm?id=3331700)]
+   - Jayakumar Subramanian, Aditya Mahajan. *AAMAS 2019*.
+ - **RLBOA: A Modular Reinforcement Learning Framework for Autonomous Negotiating Agents.** [[pdf](http://dl.acm.org/citation.cfm?id=3331701)]
+   - Jasper Bakker, Aron Hammond, Daan Bloembergen, Tim Baarslag. *AAMAS 2019*.
+ - **Reinforcement Learning for Cooperative Overtaking.** [[pdf](http://dl.acm.org/citation.cfm?id=3331712)]
+   - Chao Yu, Xin Wang, Jianye Hao, Zhanbo Feng. *AAMAS 2019*.
+ - **Urban Driving with Multi-Objective Deep Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331714)]
+   - Changjian Li, Krzysztof Czarnecki. *AAMAS 2019*.
+ - **How You Act Tells a Lot: Privacy-Leaking Attack on Deep Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331715)]
+   - Xinlei Pan, Weiyao Wang, Xiaoshuai Zhang, Bo Li, Jinfeng Yi, Dawn Song. *AAMAS 2019*.
+ - **Newtonian Action Advice: Integrating Human Verbal Instruction with Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331761)]
+   - Samantha Krening, Karen M. Feigh. *AAMAS 2019*.
+ - **Using Reinforcement Learning to Optimize the Policies of an Intelligent Tutoring System for Interpersonal Skills Training.** [[pdf](http://dl.acm.org/citation.cfm?id=3331763)]
+   - Kallirroi Georgila, Mark G. Core, Benjamin D. Nye, Shamya Karumbaiah, Daniel Auerbach, Maya Ram. *AAMAS 2019*.
+ - **A Cooperative Multi-Agent Reinforcement Learning Framework for Resource Balancing in Complex Logistics Network.** [[pdf](http://dl.acm.org/citation.cfm?id=3331794)]
+   - Xihan Li, Jia Zhang, Jiang Bian, Yunhai Tong, Tie-Yan Liu. *AAMAS 2019*.
+ - **TBQ(σ): Improving Efficiency of Trace Utilization for Off-Policy Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331799)]
+   - Longxiang Shi, Shijian Li, Longbing Cao, Long Yang, Gang Pan. *AAMAS 2019*.
+ - **Improved Cooperative Multi-agent Reinforcement Learning Algorithm Augmented by Mixing Demonstrations from Centralized Policy.** [[pdf](http://dl.acm.org/citation.cfm?id=3331808)]
+   - Hyun-Rok Lee, Taesik Lee. *AAMAS 2019*.
+ - **Malthusian Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331809)]
+   - Joel Z. Leibo, Julien Pérolat, Edward Hughes, Steven Wheelwright, Adam H. Marblestone, Edgar A. Duéñez-Guzmán, Peter Sunehag, Iain Dunning, Thore Graepel. *AAMAS 2019*.
+ - **Observational Learning by Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331811)]
+   - Diana Borsa, Nicolas Heess, Bilal Piot, Siqi Liu, Leonard Hasenclever, Rémi Munos, Olivier Pietquin. *AAMAS 2019*.
+ - **Online Inverse Reinforcement Learning Under Occlusion.** [[pdf](http://dl.acm.org/citation.cfm?id=3331818)]
+   - Saurabh Arora, Prashant Doshi, Bikramjit Banerjee. *AAMAS 2019*.
+ - **Can Sophisticated Dispatching Strategy Acquired by Reinforcement Learning?** [[pdf](http://dl.acm.org/citation.cfm?id=3331848)]
+   - Yujie Chen, Yu Qian, Yichen Yao, Zili Wu, Rongqi Li, Yinzhi Zhou, Haoyuan Hu, Yinghui Xu. *AAMAS 2019*.
+ - **Microscopic Traffic Simulation by Cooperative Multi-agent Deep Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331872)]
+   - Giulio Bacchiani, Daniele Molinari, Marco Patander. *AAMAS 2019*.
+ - **Towards Decentralized Reinforcement Learning Architectures for Social Dilemmas.** [[pdf](http://dl.acm.org/citation.cfm?id=3331915)]
+   - Nicolas Anastassacos, Mirco Musolesi. *AAMAS 2019*.
+ - **Actor Based Simulation for Closed Loop Control of Supply Chain using Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331924)]
+   - Souvik Barat, Harshad Khadilkar, Hardik Meisheri, Vinay Kulkarni, Vinita Baniwal, Prashant Kumar, Monika Gajrani. *AAMAS 2019*.
+ - **Attention-based Deep Reinforcement Learning for Multi-view Environments.** [[pdf](http://dl.acm.org/citation.cfm?id=3331925)]
+   - Elaheh Barati, Xuewen Chen, Zichun Zhong. *AAMAS 2019*.
+ - **Training Cooperative Agents for Multi-Agent Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331932)]
+   - Sushrut Bhalla, Sriram Ganapathi Subramanian, Mark Crowley. *AAMAS 2019*.
+ - **Domain Adaptation for Reinforcement Learning on the Atari.** [[pdf](http://dl.acm.org/citation.cfm?id=3331943)]
+   - Thomas Carr, Maria Chli, George Vogiatzis. *AAMAS 2019*.
+ - **The Representational Capacity of Action-Value Networks for Multi-Agent Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331944)]
+   - Jacopo Castellini, Frans A. Oliehoek, Rahul Savani, Shimon Whiteson. *AAMAS 2019*.
+ - **Cooperative Multi-Agent Deep Reinforcement Learning in Soccer Domains.** [[pdf](http://dl.acm.org/citation.cfm?id=3331945)]
+   - Jim Martin Catacora Ocana, Francesco Riccio, Roberto Capobianco, Daniele Nardi. *AAMAS 2019*.
+ - **Collaborative Reinforcement Learning Model for Sustainability of Cooperation in Sequential Social Dilemmas.** [[pdf](http://dl.acm.org/citation.cfm?id=3331949)]
+   - Ritwik Chaudhuri, Kushal Mukherjee, Ramasuri Narayanam, Rohith Dwarakanath Vallam, Ayush Kumar, Antriksh Mathur, Shweta Garg, Sudhanshu Singh, Gyana R. Parija. *AAMAS 2019*.
+ - **Reinforcement Learning with Derivative-Free Exploration.** [[pdf](http://dl.acm.org/citation.cfm?id=3331950)]
+   - Xiong-Hui Chen, Yang Yu. *AAMAS 2019*.
+ - **MARL-PPS: Multi-agent Reinforcement Learning with Periodic Parameter Sharing.** [[pdf](http://dl.acm.org/citation.cfm?id=3331951)]
+   - Safa Cicek, Alireza Nakhaei, Stefano Soatto, Kikuo Fujimura. *AAMAS 2019*.
+ - **Landmark Based Reward Shaping in Reinforcement Learning with Hidden States.** [[pdf](http://dl.acm.org/citation.cfm?id=3331964)]
+   - Alper Demir, Erkin Çilden, Faruk Polat. *AAMAS 2019*.
+ - **Actor-Critic Algorithms for Constrained Multi-agent Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331967)]
+   - Raghuram Bharadwaj Diddigi, Sai Koti Reddy Danda, Prabuchandran K. J., Shalabh Bhatnagar. *AAMAS 2019*.
+ - **Optimising Worlds to Evaluate and Influence Reinforcement Learning Agents.** [[pdf](http://dl.acm.org/citation.cfm?id=3331971)]
+   - Richard Everett, Adam D. Cobb, Andrew Markham, Stephen J. Roberts. *AAMAS 2019*.
+ - **A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3331982)]
+   - Francisco M. Garcia, Philip S. Thomas. *AAMAS 2019*.
+ - **Multi-Agent Hierarchical Reinforcement Learning with Dynamic Termination.** [[pdf](http://dl.acm.org/citation.cfm?id=3331992)]
+   - Dongge Han, Wendelin Boehmer, Michael J. Wooldridge, Alex Rogers. *AAMAS 2019*.
+ - **Escape Room: A Configurable Testbed for Hierarchical Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3332031)]
+   - Jacob Menashe, Peter Stone. *AAMAS 2019*.
+ - **Object Exchangability in Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3332032)]
+   - John Mern, Dorsa Sadigh, Mykel J. Kochenderfer. *AAMAS 2019*.
+ - **Coordination Structures Generated by Deep Reinforcement Learning in Distributed Task Executions.** [[pdf](http://dl.acm.org/citation.cfm?id=3332033)]
+   - Yuki Miyashita, Toshiharu Sugawara. *AAMAS 2019*.
+ - **Effects of Task Similarity on Policy Transfer with Selective Exploration in Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3332034)]
+   - Akshay Narayan, Tze-Yun Leong. *AAMAS 2019*.
+ - **Risk Averse Reinforcement Learning for Mixed Multi-agent Environments.** [[pdf](http://dl.acm.org/citation.cfm?id=3332047)]
+   - Sai Koti Reddy Danda, Amrita Saha, Srikanth G. Tamilselvam, Priyanka Agrawal, Pankaj Dayama. *AAMAS 2019*.
+ - **A Regulation Enforcement Solution for Multi-agent Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3332057)]
+   - Fan-Yun Sun, Yen-Yu Chang, Yueh-Hua Wu, Shou-De Lin. *AAMAS 2019*.
+ - **MaMiC: Macro and Micro Curriculum for Robotic Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3332066)]
+   - Manan Tomar, Akhil Sathuluri, Balaraman Ravindran. *AAMAS 2019*.
+ - **A Reinforcement Learning Framework for Container Selection and Ship Load Sequencing in Ports.** [[pdf](http://dl.acm.org/citation.cfm?id=3332074)]
+   - Richa Verma, Sarmimala Saikia, Harshad Khadilkar, Puneet Agarwal, Gautam Shroff, Ashwin Srinivasan. *AAMAS 2019*.
+ - **Multiagent Adversarial Inverse Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3332079)]
+   - Ermo Wei, Drew Wicke, Sean Luke. *AAMAS 2019*.
+ - **Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Reinforcement Learning Framework.** [[pdf](http://dl.acm.org/citation.cfm?id=3332086)]
+   - Yaodong Yang, Jianye Hao, Yan Zheng, Xiaotian Hao, Bofeng Fu. *AAMAS 2019*.
+ - **Coordinated Multiagent Reinforcement Learning for Teams of Mobile Sensing Robots.** [[pdf](http://dl.acm.org/citation.cfm?id=3332090)]
+   - Chao Yu, Xin Wang, Zhanbo Feng. *AAMAS 2019*.
+ - **Automatic Feature Engineering by Deep Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3332095)]
+   - Jianyu Zhang, Jianye Hao, Françoise Fogelman-Soulié, Zan Wang. *AAMAS 2019*.
+ - **Improving Deep Reinforcement Learning via Transfer.** [[pdf](http://dl.acm.org/citation.cfm?id=3332128)]
+   - Yunshu Du. *AAMAS 2019*.
+ - **Integrating Agent Advice and Previous Task Solutions in Multiagent Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3332142)]
+   - Felipe Leno da Silva. *AAMAS 2019*.
+
 
 ## International Conference on Learning Representations
 
