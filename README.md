@@ -20,7 +20,7 @@ The proceedings of top conference in 2019 on the topic of Reinforcement Learning
 * [x] Related repository
 * [x] AAAI'2019
 * [x] AAMAS'2019
-* [ ] ICLR'2019
+* [x] ICLR'2019
 * [ ] ICML'2019
 * [ ] ICRA'2019
 * [x] IJCAI'2019
@@ -268,8 +268,43 @@ For any questions, feel free to contact me 📮.
  - **Integrating Agent Advice and Previous Task Solutions in Multiagent Reinforcement Learning.** [[pdf](http://dl.acm.org/citation.cfm?id=3332142)]
    - Felipe Leno da Silva. *AAMAS 2019*.
 
-
 ## International Conference on Learning Representations
+
+ - **Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees.** [[pdf](https://openreview.net/forum?id=BJe1E2R5KX)]
+   - Yuping Luo, Huazhe Xu, Yuanzhi Li, Yuandong Tian, Trevor Darrell, Tengyu Ma. *ICLR 2019*.
+ - **M^3RL: Mind-aware Multi-agent Management Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=BkzeUiRcY7)]
+   - Tianmin Shu, Yuandong Tian. *ICLR 2019*.
+ - **Information-Directed Exploration for Deep Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=Byx83s09Km)]
+   - Nikolay Nikolov, Johannes Kirschner, Felix Berkenkamp, Andreas Krause. *ICLR 2019*.
+ - **Near-Optimal Representation Learning for Hierarchical Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=H1emus0qF7)]
+   - Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. *ICLR 2019*.
+ - **Adversarial Imitation via Variational Inverse Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=HJlmHoR5tQ)]
+   - Ahmed Hussain Qureshi, Byron Boots, Michael C. Yip. *ICLR 2019*.
+ - **Variance Reduction for Reinforcement Learning in Input-Driven Environments.** [[pdf](https://openreview.net/forum?id=Hyg1G2AqtQ)]
+   - Hongzi Mao, Shaileshh Bojja Venkatakrishnan, Malte Schwarzkopf, Mohammad Alizadeh. *ICLR 2019*.
+ - **Recall Traces: Backtracking Models for Efficient Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=HygsfnR9Ym)]
+   - Anirudh Goyal, Philemon Brakel, William Fedus, Soumye Singhal, Timothy P. Lillicrap, Sergey Levine, Hugo Larochelle, Yoshua Bengio. *ICLR 2019*.
+ - **Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization.** [[pdf](https://openreview.net/forum?id=Hyl_vjC5KQ)]
+   - Takayuki Osa, Voot Tangkaratt, Masashi Sugiyama. *ICLR 2019*.
+ - **Contingency-Aware Exploration in Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=HyxGB2AcY7)]
+   - Jongwook Choi, Yijie Guo, Marcin Moczulski, Junhyuk Oh, Neal Wu, Mohammad Norouzi, Honglak Lee. *ICLR 2019*.
+ - **Learning to Adapt in Dynamic, Real-World Environments through Meta-Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=HyztsoC5Y7)]
+   - Anusha Nagabandi, Ignasi Clavera, Simin Liu, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, Chelsea Finn. *ICLR 2019*.
+ - **Supervised Policy Update for Deep Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=SJxTroR9F7)]
+   - Quan Ho Vuong, Yiming Zhang, Keith W. Ross. *ICLR 2019*.
+ - **Learning to Schedule Communication in Multi-agent Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=SJxu5iR9KQ)]
+   - Daewoo Kim, Sangwoo Moon, David Hostallero, Wan Ju Kang, Taeyoung Lee, Kyunghwan Son, Yung Yi. *ICLR 2019*.
+ - **Modeling the Long Term Future in Model-Based Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=SkgQBn0cF7)]
+   - Nan Rosemary Ke, Amanpreet Singh, Ahmed Touati, Anirudh Goyal, Yoshua Bengio, Devi Parikh, Dhruv Batra. *ICLR 2019*.
+ - **Visceral Machines: Risk-Aversion in Reinforcement Learning with Intrinsic Physiological Rewards.** [[pdf](https://openreview.net/forum?id=SyNvti09KQ)]
+   - Daniel McDuff, Ashish Kapoor. *ICLR 2019*.
+ - **From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following.** [[pdf](https://openreview.net/forum?id=r1lq1hRqYQ)]
+   - Justin Fu, Anoop Korattikara, Sergey Levine, Sergio Guadarrama. *ICLR 2019*.
+ - **Recurrent Experience Replay in Distributed Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=r1lyTjAqYX)]
+   - Steven Kapturowski, Georg Ostrovski, John Quan, Rémi Munos, Will Dabney. *ICLR 2019*.
+ - **Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=rkl6As0cF7)]
+   - Ying Wen, Yaodong Yang, Rui Luo, Jun Wang, Wei Pan. *ICLR 2019*.
+
 
 ## International Conference on Machine Learning
 
