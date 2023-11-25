@@ -24,7 +24,7 @@ The proceedings of top conference in 2019 on the topic of Reinforcement Learning
 * [x] ICML'2019
 * [x] ICRA'2019
 * [x] IJCAI'2019
-* [ ] NeurIPS'2019
+* [x] NeurIPS'2019
 
 ## Contributing
 
@@ -538,3 +538,119 @@ For any questions, feel free to contact me 📮.
 
 ## Annual Conference on Neural Information Processing Systems
 
+ - **Staying up to Date with Online Content Changes Using Reinforcement Learning for Scheduling.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/ad13a2a07ca4b7642959dc0c4c740ab6-Abstract.html)]
+   - Andrey Kolobov, Yuval Peres, Cheng Lu, Eric Horvitz. *NeurIPS 2019*.
+ - **Regret Minimization for Reinforcement Learning with Vectorial Feedback and Complex Objectives.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/a02ffd91ece5e7efeb46db8f10a74059-Abstract.html)]
+   - Wang Chi Cheung. *NeurIPS 2019*.
+ - **Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/8a0e1141fd37fa5b98d5bb769ba1a7cc-Abstract.html)]
+   - Chao Qu, Shie Mannor, Huan Xu, Yuan Qi, Le Song, Junwu Xiong. *NeurIPS 2019*.
+ - **Hierarchical Reinforcement Learning with Advantage-Based Auxiliary Rewards.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/81e74d678581a3bb7a720b019f4f1a93-Abstract.html)]
+   - Siyuan Li, Rui Wang, Minxue Tang, Chongjie Zhang. *NeurIPS 2019*.
+ - **Multi-View Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/677e09724f0e2df9b6c000b75b5da10d-Abstract.html)]
+   - Minne Li, Lisheng Wu, Jun Wang, Haitham Bou-Ammar. *NeurIPS 2019*.
+ - **Sample-Efficient Deep Reinforcement Learning via Episodic Backward Update.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/e6d8545daa42d5ced125a4bf747b3688-Abstract.html)]
+   - Su Young Lee, Sung-Ik Choi, Sae-Young Chung. *NeurIPS 2019*.
+ - **Information-Theoretic Confidence Bounds for Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/411ae1bf081d1674ca6091f8c59a266f-Abstract.html)]
+   - Xiuyuan Lu, Benjamin Van Roy. *NeurIPS 2019*.
+ - **Regret Minimization for Reinforcement Learning by Evaluating the Optimal Bias Function.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/9e984c108157cea74c894b5cf34efc44-Abstract.html)]
+   - Zihan Zhang, Xiangyang Ji. *NeurIPS 2019*.
+ - **Real-Time Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/54e36c5ff5f6a1802925ca009f3ebb68-Abstract.html)]
+   - Simon Ramstedt, Chris Pal. *NeurIPS 2019*.
+ - **Convergent Policy Optimization for Safe Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/db29450c3f5e97f97846693611f98c15-Abstract.html)]
+   - Ming Yu, Zhuoran Yang, Mladen Kolar, Zhaoran Wang. *NeurIPS 2019*.
+ - **Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/14cfdb59b5bda1fc245aadae15b1984a-Abstract.html)]
+   - Sai Qian Zhang, Qi Zhang, Jieyu Lin. *NeurIPS 2019*.
+ - **Intrinsically Efficient, Stable, and Bounded Off-Policy Evaluation for Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/59bcda7c438bad7d2afffe9e2fed00be-Abstract.html)]
+   - Nathan Kallus, Masatoshi Uehara. *NeurIPS 2019*.
+ - **Learner-aware Teaching: Inverse Reinforcement Learning with Preferences and Constraints.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/3de568f8597b94bda53149c7d7f5958c-Abstract.html)]
+   - Sebastian Tschiatschek, Ahana Ghosh, Luis Haug, Rati Devidze, Adish Singla. *NeurIPS 2019*.
+ - **Propagating Uncertainty in Reinforcement Learning via Wasserstein Barycenters.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/f83630579d055dc5843ae693e7cdafe0-Abstract.html)]
+   - Alberto Maria Metelli, Amarildo Likmeta, Marcello Restelli. *NeurIPS 2019*.
+ - **A Geometric Perspective on Optimal Representations for Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/3cf2559725a9fdfa602ec8c887440f32-Abstract.html)]
+   - Marc G. Bellemare, Will Dabney, Robert Dadashi, Adrien Ali Taïga, Pablo Samuel Castro, Nicolas Le Roux, Dale Schuurmans, Tor Lattimore, Clare Lyle. *NeurIPS 2019*.
+ - **LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/07a9d3fed4c5ea6b17e80258dee231fa-Abstract.html)]
+   - Yali Du, Lei Han, Meng Fang, Ji Liu, Tianhong Dai, Dacheng Tao. *NeurIPS 2019*.
+ - **Finite-Time Performance Bounds and Adaptive Learning Rate Selection for Two Time-Scale Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/e354fd90b2d5c777bfec87a352a18976-Abstract.html)]
+   - Harsh Gupta, R. Srikant, Lei Ying. *NeurIPS 2019*.
+ - **Adaptive Auxiliary Task Weighting for Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/0e900ad84f63618452210ab8baae0218-Abstract.html)]
+   - Xingyu Lin, Harjatin Singh Baweja, George Kantor, David Held. *NeurIPS 2019*.
+ - **A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/c1b70d965ca504aa751ddb62ad69c63f-Abstract.html)]
+   - Francisco M. Garcia, Philip S. Thomas. *NeurIPS 2019*.
+ - **A Regularized Approach to Sparse Optimal Policy in Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/3f4366aeb9c157cf9a30c90693eafc55-Abstract.html)]
+   - Wenhao Yang, Xiang Li, Zhihua Zhang. *NeurIPS 2019*.
+ - **Fully Parameterized Quantile Function for Distributional Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/f471223d1a1614b58a7dc45c9d01df19-Abstract.html)]
+   - Derek Yang, Li Zhao, Zichuan Lin, Tao Qin, Jiang Bian, Tie-Yan Liu. *NeurIPS 2019*.
+ - **Distributional Reward Decomposition for Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/97108695bd93b6be52fa0334874c8722-Abstract.html)]
+   - Zichuan Lin, Li Zhao, Derek Yang, Tao Qin, Tie-Yan Liu, Guangwen Yang. *NeurIPS 2019*.
+ - **On the Correctness and Sample Complexity of Inverse Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/42c8938e4cf5777700700e642dc2a8cd-Abstract.html)]
+   - Abi Komanduru, Jean Honorio. *NeurIPS 2019*.
+ - **VIREL: A Variational Inference Framework for Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/582967e09f1b30ca2539968da0a174fa-Abstract.html)]
+   - Matthew Fellows, Anuj Mahajan, Tim G. J. Rudner, Shimon Whiteson. *NeurIPS 2019*.
+ - **Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/859b00aec8885efc83d1541b52a1220d-Abstract.html)]
+   - Erwan Lecarpentier, Emmanuel Rachelson. *NeurIPS 2019*.
+ - **Explicit Planning for Efficient Exploration in Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/486c825db2f776da72d0b7a791f45b8f-Abstract.html)]
+   - Liangpeng Zhang, Ke Tang, Xin Yao. *NeurIPS 2019*.
+ - **Constrained Reinforcement Learning Has Zero Duality Gap.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/c1aeb6517a1c7f33514f7ff69047e74e-Abstract.html)]
+   - Santiago Paternain, Luiz F. O. Chamon, Miguel Calvo-Fullana, Alejandro Ribeiro. *NeurIPS 2019*.
+ - **SMILe: Scalable Meta Inverse Reinforcement Learning through Context-Conditional Policies.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/2b8f621e9244cea5007bac8f5d50e476-Abstract.html)]
+   - Seyed Kamyar Seyed Ghasemipour, Shixiang Gu, Richard S. Zemel. *NeurIPS 2019*.
+ - **A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/3c3c139bd8467c1587a41081ad78045e-Abstract.html)]
+   - Nicolas Carion, Nicolas Usunier, Gabriel Synnaeve, Alessandro Lazaric. *NeurIPS 2019*.
+ - **Loaded DiCE: Trading off Bias and Variance in Any-Order Score Function Gradient Estimators for Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/6fd6b030c6afec018415662d0db43f9d-Abstract.html)]
+   - Gregory Farquhar, Shimon Whiteson, Jakob N. Foerster. *NeurIPS 2019*.
+ - **Budgeted Reinforcement Learning in Continuous State Space.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/4fe5149039b52765bde64beb9f674940-Abstract.html)]
+   - Nicolas Carrara, Edouard Leurent, Romain Laroche, Tanguy Urvoy, Odalric-Ambrym Maillard, Olivier Pietquin. *NeurIPS 2019*.
+ - **Language as an Abstraction for Hierarchical Deep Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/0af787945872196b42c9f73ead2565c8-Abstract.html)]
+   - Yiding Jiang, Shixiang Gu, Kevin Murphy, Chelsea Finn. *NeurIPS 2019*.
+ - **Non-Cooperative Inverse Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/56bd37d3a2fda0f2f41925019c81011d-Abstract.html)]
+   - Xiangyuan Zhang, Kaiqing Zhang, Erik Miehling, Tamer Basar. *NeurIPS 2019*.
+ - **Towards Optimal Off-Policy Evaluation for Reinforcement Learning with Marginalized Importance Sampling.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/4ffb0d2ba92f664c2281970110a2e071-Abstract.html)]
+   - Tengyang Xie, Yifei Ma, Yu-Xiang Wang. *NeurIPS 2019*.
+ - **Multi-Agent Common Knowledge Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/f968fdc88852a4a3a27a81fe3f57bfc5-Abstract.html)]
+   - Christian Schröder de Witt, Jakob N. Foerster, Gregory Farquhar, Philip H. S. Torr, Wendelin Boehmer, Shimon Whiteson. *NeurIPS 2019*.
+ - **Regularized Anderson Acceleration for Off-Policy Deep Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/bb1443cc31d7396bf73e7858cea114e1-Abstract.html)]
+   - Wenjie Shi, Shiji Song, Hui Wu, Ya-Chu Hsu, Cheng Wu, Gao Huang. *NeurIPS 2019*.
+ - **Unsupervised Curricula for Visual Meta-Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/d5a28f81834b6df2b6db6d3e5e2635c7-Abstract.html)]
+   - Allan Jabri, Kyle Hsu, Abhishek Gupta, Ben Eysenbach, Sergey Levine, Chelsea Finn. *NeurIPS 2019*.
+ - **A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/e49eb6523da9e1c347bc148ea8ac55d3-Abstract.html)]
+   - Xueying Bai, Jian Guan, Hongning Wang. *NeurIPS 2019*.
+ - **Meta-Inverse Reinforcement Learning with Probabilistic Context Variables.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/30de24287a6d8f07b37c716ad51623a7-Abstract.html)]
+   - Lantao Yu, Tianhe Yu, Chelsea Finn, Stefano Ermon. *NeurIPS 2019*.
+ - **Tight Regret Bounds for Model-Based Reinforcement Learning with Greedy Policies.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/25caef3a545a1fff2ff4055484f0e758-Abstract.html)]
+   - Yonathan Efroni, Nadav Merlis, Mohammad Ghavamzadeh, Shie Mannor. *NeurIPS 2019*.
+ - **Towards Interpretable Reinforcement Learning Using Attention Augmented Agents.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/e9510081ac30ffa83f10b68cde1cac07-Abstract.html)]
+   - Alexander Mott, Daniel Zoran, Mike Chrzanowski, Daan Wierstra, Danilo Jimenez Rezende. *NeurIPS 2019*.
+ - **Regret Bounds for Learning State Representations in Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/9b8b50fb590c590ffbf1295ce92258dc-Abstract.html)]
+   - Ronald Ortner, Matteo Pirotta, Alessandro Lazaric, Ronan Fruit, Odalric-Ambrym Maillard. *NeurIPS 2019*.
+ - **A Composable Specification Language for Reinforcement Learning Tasks.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/f5aa4bd09c07d8b2f65bad6c7cd3358f-Abstract.html)]
+   - Kishor Jothimurugan, Rajeev Alur, Osbert Bastani. *NeurIPS 2019*.
+ - **The Option Keyboard: Combining Skills in Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/251c5ffd6b62cc21c446c963c76cf214-Abstract.html)]
+   - André Barreto, Diana Borsa, Shaobo Hou, Gheorghe Comanici, Eser Aygün, Philippe Hamel, Daniel Toyama, Jonathan J. Hunt, Shibl Mourad, David Silver, Doina Precup. *NeurIPS 2019*.
+ - **Biases for Emergent Communication in Multi-agent Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/fe5e7cb609bdbe6d62449d61849c38b0-Abstract.html)]
+   - Tom Eccles, Yoram Bachrach, Guy Lever, Angeliki Lazaridou, Thore Graepel. *NeurIPS 2019*.
+ - **Gossip-based Actor-Learner Architectures for Deep Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/a1a527267c0d33a86382a03c4c721cd2-Abstract.html)]
+   - Mahmoud Assran, Joshua Romoff, Nicolas Ballas, Joelle Pineau, Mike Rabbat. *NeurIPS 2019*.
+ - **Near-Optimal Reinforcement Learning in Dynamic Treatment Regimes.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/8252831b9fce7a49421e622c14ce0f65-Abstract.html)]
+   - Junzhe Zhang, Elias Bareinboim. *NeurIPS 2019*.
+ - **Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/e2ccf95a7f2e1878fcafc8376649b6e8-Abstract.html)]
+   - Maximilian Igl, Kamil Ciosek, Yingzhen Li, Sebastian Tschiatschek, Cheng Zhang, Sam Devlin, Katja Hofmann. *NeurIPS 2019*.
+ - **Reinforcement Learning with Convex Constraints.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/873be0705c80679f2c71fbf4d872df59-Abstract.html)]
+   - Sobhan Miryoosefi, Kianté Brantley, Hal Daumé III, Miroslav Dudík, Robert E. Schapire. *NeurIPS 2019*.
+ - **Using a Logarithmic Mapping to Enable Lower Discount Factors in Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/eba237eccc24353ccaa4d62013556ac6-Abstract.html)]
+   - Harm van Seijen, Mehdi Fatemi, Arash Tavakoli. *NeurIPS 2019*.
+ - **Correlation Priors for Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/1bd2caf96a17d892c2c7e9959549cfc7-Abstract.html)]
+   - Bastian Alt, Adrian Sosic, Heinz Koeppl. *NeurIPS 2019*.
+ - **Policy Poisoning in Batch Reinforcement Learning and Control.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/315f006f691ef2e689125614ea22cc61-Abstract.html)]
+   - Yuzhe Ma, Xuezhou Zhang, Wen Sun, Jerry Zhu. *NeurIPS 2019*.
+ - **A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html)]
+   - Runzhe Yang, Xingyuan Sun, Karthik Narasimhan. *NeurIPS 2019*.
+ - **Text-Based Interactive Recommendation via Constraint-Augmented Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/52130c418d4f02c74f74a5bc1f8020b2-Abstract.html)]
+   - Ruiyi Zhang, Tong Yu, Yilin Shen, Hongxia Jin, Changyou Chen. *NeurIPS 2019*.
+ - **Search on the Replay Buffer: Bridging Planning and Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/5c48ff18e0a47baaf81d8b8ea51eec92-Abstract.html)]
+   - Ben Eysenbach, Ruslan Salakhutdinov, Sergey Levine. *NeurIPS 2019*.
+ - **Learning Reward Machines for Partially Observable Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/532435c44bec236b471a47a88d63513d-Abstract.html)]
+   - Rodrigo Toro Icarte, Ethan Waldie, Toryn Q. Klassen, Richard Anthony Valenzano, Margarita P. Castro, Sheila A. McIlraith. *NeurIPS 2019*.
+ - **A Family of Robust Stochastic Operators for Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/a44ba9086b2b83ccf2baf7c678723449-Abstract.html)]
+   - Yingdong Lu, Mark S. Squillante, Chai Wah Wu. *NeurIPS 2019*.
+ - **Imitation-Projected Programmatic Reinforcement Learning.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/5a44a53b7d26bb1e54c05222f186dcfb-Abstract.html)]
+   - Abhinav Verma, Hoang Minh Le, Yisong Yue, Swarat Chaudhuri. *NeurIPS 2019*.
